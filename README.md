@@ -68,8 +68,10 @@ The United States dominates the global movie industry in terms of revenue genera
 * Certain production companies dominate movie revenue generation
 
 ## Visualiztions
-<img width="1214" height="849" alt="Screenshot 2026-03-16 230743" src="https://github.com/user-attachments/assets/ae68a839-76c5-484b-98ef-f7301e9190fa" />
-<img width="1240" height="833" alt="Screenshot 2026-03-16 230913" src="https://github.com/user-attachments/assets/3a33fb1e-f953-439a-8d6c-7391fe87b87b" />
+<img width="1235" height="790" alt="Screenshot 2026-03-16 231430" src="https://github.com/user-attachments/assets/e173767f-cf19-4f04-ba9e-fc549236f1c9" />
+<img width="1214" height="849" alt="Screenshot 2026-03-16 230743" src="https://github.com/user-attachments/assets/e6b4b530-0447-49ff-9893-bd8b02f20b4c" />
+<img width="1132" height="772" alt="Screenshot 2026-03-16 230643" src="https://github.com/user-attachments/assets/f80bc742-9dee-4cb5-b1b9-dc8e432ce9a7" />
+<img width="1240" height="833" alt="Screenshot 2026-03-16 230913" src="https://github.com/user-attachments/assets/ede342b4-c7ac-4b89-8a97-754935599b3b" />
 
 ## Conclusion
 This project demonstrates how Python can be used to perform data cleaning, exploratory data analysis, and visualization to uncover patterns in movie industry data.
